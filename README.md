@@ -26,5 +26,5 @@ The system simulates an online marketplace where users can be either buyers or s
 
 🛠️ Exception Handling: Ensures valid input and prevents runtime errors.
 
-🏗️ Modular Design: A central management class controls all operations.
+🧩 Modular Design: A central management class controls all operations.
 
